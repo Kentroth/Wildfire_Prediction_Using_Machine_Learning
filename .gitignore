@@ -3,6 +3,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 config.py
+Data Sources/NOAA_WildFire/Resources
 
 # C extensions
 *.so
