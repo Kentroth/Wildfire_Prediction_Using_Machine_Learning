@@ -1,7 +1,10 @@
 # project_4
 
-NOAA API Documentaion: https://www.ncdc.noaa.gov/cdo-web/webservices/v2
-  Token Request Link: https://www.ncdc.noaa.gov/cdo-web/token
+Data Sources:
+
+NOAA Weather Data: https://www.ncei.noaa.gov/pub/data/ghcn/daily/by_year/ for annual data and here for documentation https://docs.opendata.aws/noaa-ghcn-pds/readme.html
+
+Wildfire Data: https://www.kaggle.com/datasets/behroozsohrabi/us-wildfire-records-6th-edition/code
 
 
 ## Predicting wildfire risk in specific state(like California) or all over across US(depends on dataset availabltiy)
