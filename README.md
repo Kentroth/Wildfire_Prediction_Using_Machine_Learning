@@ -10,7 +10,8 @@ Wildfire Data: https://www.kaggle.com/datasets/behroozsohrabi/us-wildfire-record
 ## Combining wildfire data with weather readings across the United States. Used to train models to determine factors that cause fire outbreaks.
 * Identified wildfire and weather data sources, matching the two datasets based on date and location
 * Using ML Neural network train, test and deploy the model to predict the probability of wild fire
-* Display a wild fire risk map across US or to a specific state depending on the dataset identified.
+* Display a wildfire map across US showing change over a 10 year peiod
+https://public.tableau.com/app/profile/celina.espinosa/viz/Wildfire_Prediction/WildfireMapComparison#1
 
 
 Cleaned data files used for analysis can be found here: https://drive.google.com/drive/folders/13aDyY35hfQo1oxeudP97oZayOrWSIXWC?usp=drive_link
