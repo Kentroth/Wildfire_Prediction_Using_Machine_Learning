@@ -11,3 +11,6 @@ Wildfire Data: https://www.kaggle.com/datasets/behroozsohrabi/us-wildfire-record
 * Identify correct data set where column representing variables and rows with instances
 * Using ML Neural network train, test and deploy the model to predict the probability of wild fire
 * Display a wild fire risk map across US or to a specific state depending on the dataset identified.
+
+
+Cleaned data files used for analysis can be found here: https://drive.google.com/drive/folders/13aDyY35hfQo1oxeudP97oZayOrWSIXWC?usp=drive_link
